@@ -2,7 +2,7 @@
 
 # Wrapped RGB Mixer
 
-This repository is a template for projects 3.2 and 5.1 that takes you through:
+This repository is a template for projects 3.2 and 5.1 that takes you through
 
 ## 3.2
 
